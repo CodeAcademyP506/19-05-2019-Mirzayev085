@@ -1161,6 +1161,7 @@ height: 30px;
 /* FAQ AREA ENDS */
 
 
+
 /* BLOG POSTS AREA STARTS */
 
 #blog {
@@ -1379,4 +1380,65 @@ height: 30px;
 
 
 
-/* BLOG POSTS AREA STARTS */
+/* BLOG POSTS AREA ENDS */
+
+
+
+
+
+/* PRICING AREA STARTS */
+
+#pricing {
+	width: 100%;
+	height:auto;
+	margin: auto;
+}
+
+#pricing h1 {
+	margin-top:80px;
+	margin-bottom: 60px;
+	text-align: center;
+	font-weight: lighter;
+}
+.pricingcont {
+	margin: auto;
+	display: flex;
+	height: auto;
+	width: 85%;
+}
+
+.pricingbox1 {
+	background-color: #69D2E7;
+	width:33.3%;
+	height: 500px;
+	border-radius: 8px;
+	margin-top: 20px;
+}
+.pricingbox1img{
+	text-align:center;
+	padding-top: 40px;
+}
+.pricingbox2 {
+	background-color: #F98F6F;
+	width:33.3%;
+	height: 520px;
+	border-radius: 8px;
+}
+.pricingbox2img{
+	text-align:center;
+	padding-top: 60px;
+}
+.pricingbox3 {
+	background-color: #9D87C3;
+	width:33.3%;
+	height: 500px;
+	border-radius: 8px;
+	margin-top: 20px;
+}
+.pricingbox3img{
+	text-align:center;
+	padding-top: 40px;
+}
+
+
+/* PRICING AREA ENDS */
